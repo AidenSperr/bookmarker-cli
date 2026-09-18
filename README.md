@@ -7,7 +7,7 @@ straight back to them with a short name
 ## Install
 
 ```powershell
-irm https://raw.githubusercontent.com/AidenSperr/bookmarker-cli/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/AidenSperr/bookmarker-cli/master/install.ps1 | iex
 ```
 
 Restart your terminal (or run `. $PROFILE`) afterward. This downloads a
