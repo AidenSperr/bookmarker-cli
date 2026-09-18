@@ -1,0 +1,4 @@
+bm.exe
+*.obj
+*.o
+.vs/
