@@ -13,8 +13,7 @@ irm https://raw.githubusercontent.com/AidenSperr/bookmarker-cli/master/install.p
 Restart your terminal (or run `. $PROFILE`) afterward. This downloads a
 prebuilt `bm.exe` from the latest release, writes the PowerShell wrapper
 functions to `~\.bm-bookmarks\Bookmarks.ps1`, and adds a line to your
-`$PROFILE` that loads them — running it again later is safe and won't
-duplicate that line.
+`$PROFILE` that loads them.
 
 ## Usage
 
