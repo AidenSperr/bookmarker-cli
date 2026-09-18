@@ -37,8 +37,8 @@ option:
 
 ```powershell
 winget install --id BrechtSanders.WinLibs.POSIX.UCRT
-git clone https://github.com/<owner>/<repo>.git
-cd <repo>
+git clone https://github.com/AidenSperr/bookmarker-cli.git
+cd bookmarker-cli
 gcc bm.c -o bm.exe -Wall -Wextra
 ```
 
