@@ -1,4 +1,10 @@
+# Build output
 bm.exe
-*.obj
 *.o
+*.obj
+*.exe.old
+
+# Editor / OS
 .vs/
+*.suo
+Thumbs.db
